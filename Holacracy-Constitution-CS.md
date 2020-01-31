@@ -676,3 +676,9 @@ Nicméně tyto starší politiky a systémy ztratí veškerou svoji váhu a prav
 ### ZMĚNY A ZRUŠENÍ ÚSTAVY
 
 Ratifikátoři nebo jejich nástupci mohou tuto ústavu měnit nebo ji zcela zrušit s využitím jakýchkoli pravomocí a postupů, na které se spoléhali při jejím přijetí. Změny musí být písemné a musí být zveřejněny tak, aby k nim měli přístup všichni partneři organizace.
+
+---
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+---
