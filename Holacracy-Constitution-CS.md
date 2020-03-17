@@ -29,7 +29,7 @@ Vaší odpovědností je pravidelně zvažovat, jak co nejlépe naplnit poslán�
 - **(a)** "***Dalších akcí***", což jsou akce, které byste mohli provést okamžitě a které by bylo užitečné provést okamžitě, přinejmenším v případě neexistence konkurenčních priorit; a
 - **(b)** ***„Projektů"***, což jsou specifické výstupy, které pro dosažení vyžadují více navazujících akcí, a na kterých by bylo užitečné pracovat, alespoň v případě neexistence konkurenčních priorit.
 
-  #### 1.2.3 ZPRACOVÁVAT PROJEKTY
+#### 1.2.3 ZPRACOVÁVAT PROJEKTY
 
 Vaší odpovědností je pravidelně zvažovat, jak dokončit každý projekt, na kterém v rámci vaší role aktivně pracujete, a to především tím, že definujete jakékoli další akce, které jsou vhodné pro posun projektu dopředu.
 
