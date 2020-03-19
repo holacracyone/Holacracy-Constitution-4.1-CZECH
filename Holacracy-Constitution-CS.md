@@ -594,6 +594,59 @@ Ratifikátoři nebo jejich nástupci mohou tuto ústavu měnit nebo ji zcela zru
 
 ---
 
+# **Příloha A**
+
+## Lead Link
+
+**Poslání:** _Vedoucí spojka v sobě obsahuje poslání celého kruhu._
+
+**Domény:** 
+
+- Přiřazení rolí uvnitř kruhu
+
+**Odpovědnosti:**
+- Strukturování pravidel řízení kruhu za účelem ustavení jeho účelu/poslání a odpovědností
+- Přiřazování partnerů k rolím kruhu; monitorování naplnění role partnerem; nabízení zpětné vazby pro lepší naplnění role; opětovné  přiřazování role jiným partnerům, pokud je to vhodné pro lepší naplnění role
+- Přidělování prostředků kruhu na jeho různé projekty a/nebo role
+- Stanovení priorit a strategií kruhu
+- Definování metrik pro kruh
+- Odstraňování překážek a omezení uvnitř kruhu vůči superkruhu a tím ustanovení jeho účelu/poslání a zodpovědností
+
+_Vedoucí spojka také obsahuje všechny nedelegované domény a zodpovědnost na úrovni kruhu.
+
+## Rep Link
+
+**Poslání:** Uvnitř superkruhu drží Rep Link účel/poslání podkruhu, uvnitř podkruhu je účelem/posláním Rep Linka: Všechny tenze kruhu vhodné k řešení v rámci superkruhu jsou tam přenesené a vyřešené.
+
+**Odpovědnosti:**
+
+- Odstraňování omezení v rámci širší organizace, která omezují podkruh
+- Snažit se porozumět tenzím předávaným členy podkruhu a rozpoznávat ty, které je vhodné zpracovat v superkruhu
+- Zajištění, aby superkruh měl náhled do zdraví podkruhu, včetně informování o všech metrikách nebo aktivitách a projektech přiřazených celému podkruhu
+
+## Facilitátor
+
+**Poslání:** Pravidla řízení a operativa kruhu jsou v souladu s ústavou.
+
+**Odpovědnosti:**
+
+- Facilitace ústavou požadovaných schůzek.
+- Auditování schůzek a záznamů podkruhů podle potřeby a vyhlašování zhroucení procesu po zjištění takového vzorce chování, který je v rozporu s pravidly ústavy.
+
+## Tajemník
+
+**Poslání:** Správa a stabilizace oficiálních záznamů kruhu a procesu vedení záznamů.
+
+**Domény:** Všechny ústavou požadované záznamy kruhu.
+
+**Odpovědnosti:**
+
+- Plánovat povinné schůzky kruhu a informovat všechny základní členy kruhu o naplánovaných časech a místech schůzek.
+- Zachycovat a zveřejňovat výstupy z povinných schůzek kruhu a udržovat seznamy platných pravidel řízení, aktivit a ukazatelů kruhu.
+- Na požádání interpretovat platná pravidla řízení a interpretovat Ústavu.
+
+---
+
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ---
