@@ -596,6 +596,6 @@ Ratifikátoři nebo jejich nástupci mohou tuto ústavu měnit nebo ji zcela zru
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
----
 Holacracy® is a registered trademark; in this case, of HolacracyOne LLC
+
 ---
