@@ -26,7 +26,7 @@ _Vedoucí spojka také obsahuje všechny nedelegované domény a zodpovědnost n
 
 - Odstraňování omezení v rámci širší organizace, která omezují podkruh
 - Snažit se porozumět tenzím předávaným členy podkruhu a rozpoznávat ty, které je vhodné zpracovat v superkruhu
-- Zajištění, aby superkruh měl náhled do zdraví podkruhu, včetně informování o všech metrikách nebo aktivitách a projektech přiřazených celému podkruhu
+- Zajištění, aby superkruh měl náhled do zdraví podkruhu, včetně informování o všech metrikách nebo aktivitách přiřazených celému podkruhu
 
 ## Facilitátor
 
