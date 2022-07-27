@@ -10,7 +10,7 @@ Tato ***„Ústava"*** definuje pravidla a postupy pro řízení a provoz organi
 
 Partneři organizace obvykle vykonávají práci pro organizaci tak, že jednají v explicitně definované roli. ***„Role"*** je organizační koncept s výstižným názvem a jedním či několika následujícími atributy:
 
-- **(a)** ***„Poslání"***, což je schopnost, potenciál nebo nerealizovatelný cíl, o který bude role dlouhodobě jménem organizace usilovat,
+- **(a)** ***„Účel"***, což je schopnost, potenciál nebo nerealizovatelný cíl, o který bude role dlouhodobě jménem organizace usilovat,
 - **(b)** Jedna či více ***„Domén"***, což jsou hmotné a nehmotné věci, které role může výhradně ovládat jako svůj majetek, a to jménem organizace,
 - **(c)** Jedna či více ***„Odpovědností"***, jež jsou trvající opakované činnosti Organizace, které jsou přiřazené roli.
 
@@ -20,11 +20,11 @@ Jako partner organizace máte následující odpovědnosti za každou roli, kter
 
 #### 1.2.1 ZPRACOVÁVAT TENZE
 
-Vaší odpovědností je sledovat, jak je poslání a odpovědnosti vaší role vyjadřovány, porovnávat to s vaší vizí jejich potenciálně ideálního vyjádření, identifikovat rozdíly mezi současnou realitou a potenciálem, který cítíte (každý rozdíl představuje „tenzi"). Jste také zodpovědní za to, že se pokusíte vyřešit tyto tenze pomocí pravomocí a dalších mechanismů, které máte podle této ústavy k dispozici.
+Vaší odpovědností je sledovat, jak je Účel a Odpovědnosti vaší role vyjadřovány, porovnávat to s vaší vizí jejich potenciálně ideálního vyjádření, identifikovat rozdíly mezi současnou realitou a potenciálem, který cítíte (každý rozdíl představuje „tenzi"). Jste také zodpovědní za to, že se pokusíte vyřešit tyto tenze pomocí pravomocí a dalších mechanismů, které máte podle této ústavy k dispozici.
 
-#### 1.2.2 ZPRACOVÁVAT POSLÁNÍ A ODPOVĚDNOSTÍ
+#### 1.2.2 ZPRACOVÁVAT ÚČEL A ODPOVĚDNOSTÍ
 
-Vaší odpovědností je pravidelně zvažovat, jak co nejlépe naplnit poslání vaší role a každou z jejich odpovědnosti, a to definováním:
+Vaší odpovědností je pravidelně zvažovat, jak co nejlépe naplnit Účel vaší role a každou z jejich Odpovědnosti, a to definováním:
 
 - **(a)** "***Dalších akcí***", což jsou akce, které byste mohli provést okamžitě a které by bylo užitečné provést okamžitě, přinejmenším v případě neexistence konkurenčních priorit; a
 - **(b)** ***„Projektů"***, což jsou specifické výstupy, které pro dosažení vyžadují více navazujících akcí, a na kterých by bylo užitečné pracovat, alespoň v případě neexistence konkurenčních priorit.
@@ -43,7 +43,7 @@ Kdykoli máte k dispozici čas jednat v rámci své Role, je vaší odpovědnost
 
 ### 1.3 PRAVOMOC JEDNAT
 
-Jako partner přiřazený k Roli máte pravomoc provádět libovolné Další akce, o kterých se domníváte, že jsou užitečné pro naplnění Poslání nebo Odpovědností vaší Role.
+Jako partner přiřazený k Roli máte pravomoc provádět libovolné Další akce, o kterých se domníváte, že jsou užitečné pro naplnění Účelu nebo Odpovědností vaší Role.
 
 Nemůžete nicméně ovládat nebo jinak ovlivňovat doménu vlastněnou jinou roli nebo jinou suverénní entitou, pokud k tomu nemáte jejich výslovné svolení. Pravomoc udělená v tomto odstavci je dále omezena v oddíle [[2.1.3.]{.underline}]
 
@@ -60,7 +60,7 @@ Pravomoci, které vám uděluje tento oddíl, mohou být dále limitovány omeze
     
 ### 2.1 ZÁKLADNÍ PRAVIDLA KRUHU
 
-***„Kruh"*** je role, která se může dále rozdělit tak, že definuje své vlastní vnitřní Role k tomu, aby dosahovala svého Poslání, kontrolovala své Domény a naplnila své Odpovědnosti. Role, které kruh definuje, jsou jeho „***Definované role"*** a každý, kdo naplňuje jednu ze svých Definovaných rolí, je „Členem kruhu" daného kruhu.
+***„Kruh"*** je role, která se může dále rozdělit tak, že definuje své vlastní vnitřní Role k tomu, aby dosahovala svého Účelu, kontrolovala své Domény a naplnila své Odpovědnosti. Role, které kruh definuje, jsou jeho „***Definované role"*** a každý, kdo naplňuje jednu ze svých Definovaných rolí, je „Členem kruhu" daného kruhu.
 
 #### 2.1.1 DEFINOVÁNÍ ROLÍ A POLITIK
 
@@ -92,7 +92,7 @@ Osoba, která drží roli Lead Link, je v době kdy ji jedná z její podstaty o
 
 #### 2.2.1 DRŽÍ NEPŘIDĚLENÉ ROLE
 
-Lead Link Kruhu dědí Poslání a všechny Odpovědnosti samotného Kruhu a ovládá všechny v Kruhu definované Domény stejně jako kdyby kruh byl pouze jedna Role a Lead Link tuto roli držel. Nicméně toto platí pouze v rozsahu, v němž tyto Odpovědnosti a Domény nebyly převedené na Roli v rámci Kruhu nebo byly jinak delegovány.
+Lead Link Kruhu dědí Účel a všechny Odpovědnosti samotného Kruhu a ovládá všechny v Kruhu definované Domény stejně jako kdyby kruh byl pouze jedna Role a Lead Link tuto roli držel. Nicméně toto platí pouze v rozsahu, v němž tyto Odpovědnosti a Domény nebyly převedené na Roli v rámci Kruhu nebo byly jinak delegovány.
 
 Lead Link navíc nesmí mimo Proces řízení Kruhu definovat Politiky, které omezují Role Kruhu.
 
@@ -104,7 +104,7 @@ Kromě toho může Lead Link definovat obecnou „Strategii" nebo více Strategi
 
 #### 2.2.3 ZMĚNY ROLE LEAD LINK 
 
-Kruh nesmí přidávat Odpovědnosti nebo jiné funkce své vlastní roli Lead Link, ani měnit poslání role nebo roli úplně odstranit. Kruh však může odstranit jakékoli odpovědnosti, domény, pravomoci nebo funkce své role Lead Link, a to buď tím, že je umístí na jinou roli v rámci kruhu, nebo definuje alternativní prostředky, jak je naplnit. Když k tomu dojde a dokud delegování zůstává zachováno, je příslušný prvek nebo pravomoc z role Lead Link automaticky odebrán.
+Kruh nesmí přidávat Odpovědnosti nebo jiné funkce své vlastní roli Lead Link, ani měnit Účel role nebo roli úplně odstranit. Kruh však může odstranit jakékoli odpovědnosti, domény, pravomoci nebo funkce své role Lead Link, a to buď tím, že je umístí na jinou roli v rámci kruhu, nebo definuje alternativní prostředky, jak je naplnit. Když k tomu dojde a dokud delegování zůstává zachováno, je příslušný prvek nebo pravomoc z role Lead Link automaticky odebrán.
 
 ### 2.3 ZÁKLADNÍ ČLENOVÉ KRUHU
 
@@ -151,7 +151,7 @@ Lead Link může přidělit více lidí ke stejné Definované roli, pokud to ne
 
 Jako jeden ze způsobů, jak zachovat tuto jasnost, může Lead Link spolu s každým přidělením specifikovat ***„Zaměření"***, což je oblast nebo kontext pro tuto osobu, na kterou se soustředit během naplňování dané role.
 
-Pokud přiřazení rolí obsahuje Zaměření, platí poslání, odpovědnosti a domény definované pro roli pouze v rámci zaměření specifikovaného pro danou osobu.
+Pokud přiřazení rolí obsahuje Zaměření, platí Účel, Odpovědnosti a domény definované pro roli pouze v rámci zaměření specifikovaného pro danou osobu.
 
 #### 2.4.3 REZIGNACE Z ROLÍ
 
@@ -171,7 +171,7 @@ Během volebního procesu specifikuje facilitátor pro každou volbu funkční o
 
 #### 2.5.3 ZMĚNY VOLENÝCH ROLÍ
 
-Kruh může přidávat svým voleným rolím odpovědnosti nebo domény a také tyto přídavky změnit nebo odstranit. Kruh však může provádět změny pouze u své vlastní role Rep Link, a nikoli u role Rep Link, která je jmenována pro Kruh Podkruhem. Mimo to, žádný kruh nemůže změnit nebo odstranit jakékoli poslání, doménu, zodpovědnosti nebo pravomoci udělené volené roli touto ústavou, ani zcela odstranit volenou roli.
+Kruh může přidávat svým voleným rolím Odpovědnosti nebo domény a také tyto přídavky změnit nebo odstranit. Kruh však může provádět změny pouze u své vlastní role Rep Link, a nikoli u role Rep Link, která je jmenována pro Kruh Podkruhem. Mimo to, žádný kruh nemůže změnit nebo odstranit jakýkoli Účel, Doménu, Odpovědnosti nebo pravomoci udělené volené roli touto ústavou, ani zcela odstranit volenou roli.
 
 #### 2.5.4 NÁHRADNICÍ PRO VOLENÉ ROLE
 
@@ -189,7 +189,7 @@ Kruh může své definované role rozšířit na plné kruhy prostřednictvím s
 
 #### 2.6.1 MODIFIKACE PODKRUHŮ
 
-Kruh může modifikovat Poslání, Doménu nebo Odpovědnosti v Podkruhu. Kruh může také přesunout své vlastní Definované role nebo Politiky do Podkruhu nebo přesunout některé z nich zevnitř Podkruhu do sebe. Každá z těchto modifikací může být provedena pouze prostřednictvím procesu řízení Kruhu. Nad rámec těchto povolených změn nesmí kruh modifikovat žádné definované Role nebo Politiky uvnitř Podkruhu.
+Kruh může modifikovat Účel, Doménu nebo Odpovědnosti v Podkruhu. Kruh může také přesunout své vlastní Definované role nebo Politiky do Podkruhu nebo přesunout některé z nich zevnitř Podkruhu do sebe. Každá z těchto modifikací může být provedena pouze prostřednictvím procesu řízení Kruhu. Nad rámec těchto povolených změn nesmí kruh modifikovat žádné definované Role nebo Politiky uvnitř Podkruhu.
 
 #### 2.6.2 ODSTRANĚNÍ PODKRUHŮ
 
@@ -213,9 +213,9 @@ Po přijetí politiky křížového spojení, může propojená entita jmenovat 
 
 Pokud je propojená entita rolí, pak se tato role může podílet na cílovém kruhu, jak je popsáno níže. Stává se ***„Rolí Křížové spojky"***, a osoba naplňující tuto roli se stává ***„Křížovou spojkou"***.
 
-Je-li propojená entita kruhem nebo skupinou, je místo toho vytvořena nová speciální role křížové spojky a nachází se uvnitř propojené entity i cílového kruhu, velmi podobně jako Rep Link. V tomto případě má role křížové spojky stejné poslání a odpovědnosti jako Rep Link, s tím že „Kruh", na který se odkazuje v popisu role Rep Linka, místo toho znamená Propojenou entitu a „Superkruh" místo toho znamená Cílový kruh.
+Je-li propojená entita kruhem nebo skupinou, je místo toho vytvořena nová speciální role křížové spojky a nachází se uvnitř propojené entity i cílového kruhu, velmi podobně jako Rep Link. V tomto případě má role křížové spojky stejný Účel a Odpovědnosti jako Rep Link, s tím že „Kruh", na který se odkazuje v popisu role Rep Linka, místo toho znamená Propojenou entitu a „Superkruh" místo toho znamená Cílový kruh.
 
-Pokud propojená entita postrádá jasné poslání i jakékoli jasné odpovědnosti, pak musí politika křížové spojky dále objasnit, co bude role křížové spojky představovat uvnitř cílového kruhu.
+Pokud propojená entita postrádá jasný Účel i jakékoli jasné Odpovědnosti, pak musí politika křížové spojky dále objasnit, co bude role křížové spojky představovat uvnitř cílového kruhu.
 
 #### 2.7.2 JMENOVÁNÍ KŘÍŽOVÉ SPOJKY
 
@@ -229,7 +229,7 @@ Ve všech případech může být do každé role křížové spojky jmenována 
 
 Křížová spojka se stává základním členem cílového kruhu a může používat pravomoci základního člena kruhu ke zpracování tenzí, které souvisí omezováním propojené entity cílovým kruhem.
 
-Nicméně, kromě odstranění omezení, nesmí křížová spojka používat cílový kruh pro vytváření dalších kapacit pro propojenou entitu, jedině pokud by tyto kapacity též pomáhaly cílovému kruhu vyjádřit jeho vlastní poslání nebo zodpovědnosti.
+Nicméně, kromě odstranění omezení, nesmí křížová spojka používat cílový kruh pro vytváření dalších kapacit pro propojenou entitu, jedině pokud by tyto kapacity též pomáhaly cílovému kruhu vyjádřit jeho vlastní Účel nebo Odpovědnosti.
 
 #### 2.7.4 DODATKY K ROLI KŘÍŽOVÉ SPOJKY
 
@@ -278,7 +278,7 @@ Některé návrhy jsou v rámci procesu řízení kruhu zakázány a facilitáto
 
 Aby mohl být návrh zpracován, musí řešit nebo snižovat tenzi, kterou pociťuje jeho navrhovatel.
 
-Navíc musí návrh obvykle pomáhat navrhovateli lépe vyjádřit poslání nebo odpovědnost jedné z rolí navrhovatele v kruhu.
+Navíc musí návrh obvykle pomáhat navrhovateli lépe vyjádřit Účel nebo Odpovědnost jedné z rolí navrhovatele v kruhu.
 
 Návrh však může alternativně pomoci jinému členovi kruhu lépe vyjádřit jednu z rolí této osoby v kruhu, avšak pouze tehdy, pokud daná osoba udělila navrhovateli oprávnění, aby tuto roli zastupoval.
 
@@ -294,10 +294,10 @@ Avšak při posuzování platnosti návrhu může facilitátor pouze posuzovat, 
 
 Některé tenze se nepovažují za námitky a při zpracování návrhu je lze ignorovat. Tenze se považuje za námitku pouze tehdy, pokud splňuje všechna kritéria uvedená níže pod písmeny ***a)*** až ***d)*** nebo zvláštní kritéria definovaná pod písmenem ***e)***:
 
-- **(a)** Pokud by tenze nebyla řešena, zhoršila by se schopnost kruhu vyjadřovat své poslání nebo naplňovat své odpovědnosti. Tudíž tato tenze není vyvolána pouze tím, že namítatel má lepší nápad nebo vidí potenciál pro další zlepšení, ale protože návrh by skutečně posunul kruh zpět v jeho stávajících schopnostech. Pro posuzování tohoto kritéria, se snižování jasnosti považuje za zhoršování schopnosti, ačkoli pouhá neschopnost zlepšit jasnost ne.
+- **(a)** Pokud by tenze nebyla řešena, zhoršila by se schopnost kruhu vyjadřovat svůj Účel nebo naplňovat své Odpovědnosti. Tudíž tato tenze není vyvolána pouze tím, že namítatel má lepší nápad nebo vidí potenciál pro další zlepšení, ale protože návrh by skutečně posunul kruh zpět v jeho stávajících schopnostech. Pro posuzování tohoto kritéria, se snižování jasnosti považuje za zhoršování schopnosti, ačkoli pouhá neschopnost zlepšit jasnost ne.
 - **(b)** V případě nepřítomnosti návrhu tenze pro kruh sama o sobě neexistuje. Tenze by tudíž vznikla právě s přijetím návrhu a neexistovala by, kdyby byl návrh stažen.
 - **(c)** Tenze je vyvolávaná pouze na základě v současnosti známých skutečnostmi a nebo události, bez ohledu na předpověď toho, co se může stát v budoucnu. Opírat se o předpovědi je však povoleno, pokud je pravděpodobné, že v budoucnu nebude existovat dostatečná možnost zachytit a reagovat před tím, než dojde k významnému dopadu.
-- **(d)** Tenze omezuje schopnost namítatele vyjadřovat poslání nebo naplňovat odpovědnosti jedné ze svých rolí v kruhu nebo pokud omezuje jinou roli, a namítatel má oprávnění od držitele této role, který roli obvykle naplňuje, danou roli reprezentovat.
+- **(d)** Tenze omezuje schopnost namítatele vyjadřovat Účel nebo naplňovat Odpovědnosti jedné ze svých rolí v kruhu nebo pokud omezuje jinou roli, a namítatel má oprávnění od držitele této role, který roli obvykle naplňuje, danou roli reprezentovat.
 
 Nicméně, bez ohledu na výše uvedená kritéria, se tenze ohledně přijetí návrhu považuje vždy za námitku, jestliže:
 
@@ -519,7 +519,7 @@ Jako partner organizace jste v některých případech oprávněn/a jednat mimo 
 
 Individuální akci můžete podniknout pouze tehdy, jsou-li splněny všechny následující podmínky:
 
-- **(a)** Jednáte v dobré víře, abyste sloužili poslání nebo vyjádřili odpovědnost některé role uvnitř organizace nebo celé organizace samotné.
+- **(a)** Jednáte v dobré víře, abyste sloužili Účelu nebo vyjádřili Odpovědnost některé role uvnitř organizace nebo celé organizace samotné.
 - **(b)** Rozumně se domníváte, že by vaše akce vyřešila nebo zabránila větší tenzi pro organizaci, než by pravděpodobně sama vytvořila.
 - **(c)** Vaše akce by neměla způsobit, přislíbit nebo umožnit utracení ani jiné disponování s prostředky nebo jiným majetkem organizace, nad hodnotu kterou jste již oprávněni utratit.
 - **(d)** Pokud by vaše akce porušila jakoukoli doménu nebo politiku, rozumně se domníváte, že nemůžete zdržet akci na tak dlouho, abyste si vyžádali povolení, které je obvykle nutné nebo navrhli změnu v pravidlech řízení, která by vaši akci umožnila, aniž byste ztratili velkou část její potenciální hodnoty.
@@ -546,7 +546,7 @@ Přijetím této ústavy ratifikátoři postupují svoji pravomoc řídit a spra
 
 ### 5.2 KOTEVNÍ KRUH
 
-Po přijetí této ústavy musí ratifikátoři ustanovit počáteční kruh, který vyjádří celkové poslání organizace. Tento ***„Kotevní kruh"*** se stává nejširším kruhem v organizaci a automaticky kontroluje všechny domény, které kontroluje sama organizace.
+Po přijetí této ústavy musí ratifikátoři ustanovit počáteční kruh, který vyjádří celkový Účel organizace. Tento ***„Kotevní kruh"*** se stává nejširším kruhem v organizaci a automaticky kontroluje všechny domény, které kontroluje sama organizace.
 
 #### 5.2.1 SPOJKY NA KOTEVNÍ KRUH
 
@@ -560,13 +560,13 @@ Pokud kotevní kruh nemá žádného Lead Linka, stanou se všechna rozhodnutí,
 
 Dále je v kotevním kruhu bez Lead Linka zrušena běžná pravomoc rolí autokraticky ovlivňovat domény kruhu (viz oddíl [[2.1.2]{.underline}]). Místo toho mohou role kruhu ovlivňovat jeho domény pouze pokud politika ovlivňování výslovně povolí nebo případně navržením akce pomocí procesu řízení kruhu, přesně tak, jak je popsáno výše pro uplatnění pravomoci Lead Linka.
 
-#### 5.2.3 POSLÁNÍ ORGANIZACE
+#### 5.2.3 ÚČEL ORGANIZACE
 
-Kotevní kruh je automaticky odpovědný za objevení a vyjádření poslání celé organizace. Posláním organizace je nejhlubší tvůrčí potenciál, jaký může ve světě udržitelně vyjadřovat vzhledem ke všem omezením, která na ni působí a všemu, co má k dispozici. To zahrnuje její historii, současné kapacity, dostupné prostředky, partnery, charakter, kulturu, obchodní strukturu, značku, povědomí o trhu a všechny další relevantní prostředky nebo faktory.
+Kotevní kruh je automaticky odpovědný za objevení a vyjádření Účelu celé organizace. Účelem organizace je nejhlubší tvůrčí potenciál, jaký může ve světě udržitelně vyjadřovat vzhledem ke všem omezením, která na ni působí a všemu, co má k dispozici. To zahrnuje její historii, současné kapacity, dostupné prostředky, partnery, charakter, kulturu, obchodní strukturu, značku, povědomí o trhu a všechny další relevantní prostředky nebo faktory.
 
-Lead Link kotevního kruhu dědí tuto odpovědnost automaticky a může zachytit a aktualizovat poslání, aby tuto odpovědnost naplnil.
+Lead Link kotevního kruhu dědí tuto odpovědnost automaticky a může zachytit a aktualizovat Účel, aby tuto odpovědnost naplnil.
 
-Pokud kotevní kruh nemá Lead Linka, spadá tato zodpovědnost namísto toho automaticky na každou křížovou spojku ke kotevnímu kruhu a každá z nich může aktualizovat poslání navržením aktualizace prostřednictvím procesu řízení kruhu.
+Pokud kotevní kruh nemá Lead Linka, spadá tato zodpovědnost namísto toho automaticky na každou křížovou spojku ke kotevnímu kruhu a každá z nich může aktualizovat Účel navržením aktualizace prostřednictvím procesu řízení kruhu.
 
 #### 5.2.4 AKTUALIZACE KOTEVNÍHO KRUHU
 
