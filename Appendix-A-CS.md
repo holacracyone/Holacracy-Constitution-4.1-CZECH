@@ -9,7 +9,7 @@
 - Přiřazení rolí uvnitř kruhu
 
 **Odpovědnosti:**
-- Strukturování pravidel řízení kruhu za účelem ustavení jeho účelu a odpovědností
+- Strukturování pravidel řízení kruhu pro naplnění jeho účelu a odpovědností
 - Přiřazování partnerů k rolím kruhu; monitorování naplnění role partnerem; nabízení zpětné vazby pro lepší naplnění role; opětovné  přiřazování role jiným partnerům, pokud je to vhodné pro lepší naplnění role
 - Přidělování prostředků kruhu na jeho různé projekty a/nebo role
 - Stanovení priorit a strategií kruhu
