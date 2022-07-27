@@ -37,7 +37,7 @@ Vaší odpovědností je pravidelně zvažovat, jak dokončit každý projekt, n
 
 Vaší odpovědností je zachytit a sledovat všechny projekty a následující akce pro vaši Roli v databázi nebo podobné hmatatelné podobě a tuto databázi pravidelně revidovat a aktualizovat, aby byla důvěryhodným seznamem probíhajících a potenciálních práci Role. Zároveň je Vaší odpovědností sledovat jakékoli tenze, které identifikujete pro vaši Roli, alespoň do té doby než je zpracujete do požadovaných Projektů nebo Dalších akcí nebo je nevyřešíte jiným způsobem.
 
-#### 1.2.5 AMĚŘOVAT POZORNOST A ZDROJE
+#### 1.2.5 ZAMĚŘOVAT POZORNOST A ZDROJE
 
 Kdykoli máte k dispozici čas jednat v rámci své Role, je vaší odpovědností zvažovat potenciální další akce, které byste v tomto okamžiku mohli účinně a efektivně provádět, a vykonávat ze seznamu dalších akcí vše, o čem se domníváte, že bude největší přidanou hodnotou pro Organizaci.
 
@@ -45,7 +45,7 @@ Kdykoli máte k dispozici čas jednat v rámci své Role, je vaší odpovědnost
 
 Jako partner přiřazený k Roli máte pravomoc provádět libovolné Další akce, o kterých se domníváte, že jsou užitečné pro naplnění Účelu nebo Odpovědností vaší Role.
 
-Nemůžete nicméně ovládat nebo jinak ovlivňovat doménu vlastněnou jinou roli nebo jinou suverénní entitou, pokud k tomu nemáte jejich výslovné svolení. Pravomoc udělená v tomto odstavci je dále omezena v oddíle [[2.1.3.]{.underline}]
+Nemůžete nicméně ovládat nebo jinak ovlivňovat doménu vlastněnou jinou roli nebo jinou suverénní entitou, pokud k tomu nemáte jejich výslovné svolení. Pravomoc udělená v tomto odstavci je dále omezena v oddíle **2.1.3.**
 
 ### 1.4 PRAVOMOC NAD DOMÉNAMI
 
@@ -53,8 +53,7 @@ Jako Partner přiřazený k roli máte pravomoc ovládat každou Doménu vaší 
 
 Pro vaše Domény můžete též definovat ***„Politiky"***, které jsou buď udělením pravomoci, která umožňuje jiným ovlivnit Doménu, nebo omezení, jak to mohou jiní činit, pokud je pravomoc jinak udělená. Politiky se stávají platnými až po jejich zveřejnění skrze komunikační kanál přístupný pro všechny partnery, kterých by se tato politika mohla týkat.
 
-Pravomoci, které vám uděluje tento oddíl, mohou být dále limitovány omezeními definovanými v oddílu [[2.1.3.]{.underline}]
-
+Pravomoci, které vám uděluje tento oddíl, mohou být dále limitovány omezeními definovanými v oddílu **2.1.3.**
 
 ## Článek II: Struktura kruhu
     
@@ -70,7 +69,7 @@ Dále může každý Kruh ovládat své funkce a činnosti, jako by se jednalo o
 
 #### 2.1.2 ROLE MOHOU OVLIVNIT DOMÉNY KRUHU
 
-Při naplňování Role v Kruhu můžete používat a ovlivňovat jakoukoli Doménu ovládanou Kruhem, nebo kterou je Kruh oprávněn ovlivňovat. Musíte však dodržovat všechna omezení, kterými se řídí samotný Kruh nebo jsou definována politikami Kruhu, a nemůžete plně ovládat doménu za podmínek uvedených v oddílu [[1.4.]{.underline}]
+Při naplňování Role v Kruhu můžete používat a ovlivňovat jakoukoli Doménu ovládanou Kruhem, nebo kterou je Kruh oprávněn ovlivňovat. Musíte však dodržovat všechna omezení, kterými se řídí samotný Kruh nebo jsou definována politikami Kruhu, a nemůžete plně ovládat doménu za podmínek uvedených v oddílu **1.4.**
 
 Dále nesmíte převést ani vyřadit samotnou Doménu ani žádné jiné významné aktivum uvnitř této Domény, ani nesmíte významně omezovat jakákoli práva Kruhu k této Doméně. Tato omezení však neplatí, jestliže vám k tomu Role nebo Proces mající potřebné oprávnění udělí svolení.
 
@@ -117,9 +116,9 @@ Základní členové kruhu jsou určeni pomocí následujících pravidel.
 Není-li provedeno zvláštní jmenování nebo vyloučení za podmínek tohoto oddílu, jsou základními členy kruhu:
 
 - **(a)** každý Partner plnící definovanou Roli v Kruhu,
-- **(b)** Lead Link Kruhu, jak je definována v oddílu [[2.2.]{.underline}],
-- **(c)** každý Rep Link zvolený ke Kruhu, jak je definována v oddílu [[2.6.4.]{.underline}],
-- **(d)** a každá Křížová spojka do kruhu, jak je definována v oddílu [[2.7.]{.underline}]
+- **(b)** Lead Link Kruhu, jak je definována v oddílu **2.2.**,
+- **(c)** každý Rep Link zvolený ke Kruhu, jak je definována v oddílu **2.6.4.**,
+- **(d)** a každá Křížová spojka do kruhu, jak je definována v oddílu **2.7.**
 
 #### 2.3.2 VYLOUČENÍ ROLÍ DRŽENÝCH VÍCE OSOBAMI
 
@@ -167,7 +166,7 @@ Facilitátor každého Kruhu bude facilitovat pravidelné volby pro zvolení zá
 
 #### 2.5.2 FUNKČNÍ OBDOBÍ A PŘEDČASNÉ VOLBY
 
-Během volebního procesu specifikuje facilitátor pro každou volbu funkční období. Tajemník odpovídá za okamžité zahájení nových voleb po uplynutí funkčního období této volené role. Každý základní člen kruhu může spustit nové volby s využitím volebního procesu definovaného v Článku III i před uplynutím funkčního období této volené role.
+Během volebního procesu specifikuje Facilitátor pro každou volbu funkční období. Tajemník odpovídá za okamžité zahájení nových voleb po uplynutí funkčního období této volené role. Každý základní člen kruhu může spustit nové volby s využitím volebního procesu definovaného v Článku III i před uplynutím funkčního období této volené role.
 
 #### 2.5.3 ZMĚNY VOLENÝCH ROLÍ
 
@@ -266,7 +265,7 @@ Návrhy se považují za přijaté a upravují pravidla řízení kruhu pouze te
 
 #### 3.2.1 PODÁVÁNÍ NÁVRHŮ
 
-Každý základní člen kruhu může podávat návrhy v rámci ***„Organizační schůzky"*** kruhu svolané za podmínek oddílu [[3.3.]{.underline}] Případně může základní člen kruhu distribuovat návrh všem ostatním základním členům kruhu asynchronně, mimo organizační schůzku, s využitím jakéhokoli písemného komunikačního kanálu, jaký pro tento účel schválí tajemník kruhu.
+Každý základní člen kruhu může podávat návrhy v rámci ***„Organizační schůzky"*** kruhu svolané za podmínek oddílu **3.3.** Případně může základní člen kruhu distribuovat návrh všem ostatním základním členům kruhu asynchronně, mimo organizační schůzku, s využitím jakéhokoli písemného komunikačního kanálu, jaký pro tento účel schválí tajemník kruhu.
 
 Když k tomu dojde, může facilitátor buď použít stejný postup a pravidla použitá v rámci organizační schůzky, nebo může umožnit každému základnímu členu kruhu, aby přímo oznámil, zda má nebo nemá nějaké námitky k začlenění. Dále, v jakémkoli okamžiku před tím, než je asynchronní návrh přijatý, mohou facilitátor nebo jakýkoli základní člen kruhu zastavit asynchronní zpracování tím, že požádají navrhovatele, aby návrh eskaloval na organizační schůzku a uvědomí o tom tajemníka kruhu.
 
@@ -311,7 +310,7 @@ Při posuzování platnosti uváděné námitky může facilitátor pouze posoud
 
 Facilitátor nesmí rozhodnout na základě přesnosti argumentů nebo důležitosti řešení.
 
-Nicméně, pokud je námitka vznesená na základě návrhu, který porušuje ústavu, podle oddílu [[3.2.4]{.underline}] písm. e), může facilitátor požádat tajemníka kruhu, aby posoudil, zda návrh skutečně porušuje ústavu. Pokud tajemník rozhodne, že tomu tak není, musí facilitátor námitku poté zamítnout.
+Nicméně, pokud je námitka vznesená na základě návrhu, který porušuje ústavu, podle oddílu **3.2.4** písm. e), může facilitátor požádat tajemníka kruhu, aby posoudil, zda návrh skutečně porušuje ústavu. Pokud tajemník rozhodne, že tomu tak není, musí facilitátor námitku poté zamítnout.
 
 #### 3.2.6 PRAVIDLA ZAČLENĚNÍ
 
@@ -320,7 +319,7 @@ Pokud je k návrhu vznesena námitka, platí pro hledání řešení následují
 - **(a)** Facilitátor musí otestovat námitku, pokud o to požádá některý základní člen kruhu, a vyřadit ji, pokud nesplní kritéria platnosti popsaná v tomto oddíle.
 - **(b)** Namítatel se musí pokusit nalézt vylepšení návrhu, které vyřeší jeho námitku, a zároveň bude stále řešit tenzi navrhovatele. Ostatní mohou pomáhat. Pokud facilitátor dojde v nějakém okamžiku k závěru, že namítatel v dobré víře neusiluje o nalezení potenciálního vylepšení, musí námitku považovat za vyřezanou a dále zpracovávat návrh tak, jako by námitka nebyla vznesena.
 - **(c)** Jakýkoli základní člen kruhu může položit navrhovateli upřesňující otázky k tenzi v pozadí návrhu nebo k jakémukoli příkladu, který navrhovatel sdílel za účelem ilustrace tenze. Pokud v nějakém okamžiku dojde facilitátor k závěru, že navrhovatel v dobré víře neusiluje o zodpovězení těchto otázek, musí potom facilitátor považovat návrh za neplatný pro další zpracování a tedy vyřazený.
-- **(d)** Namítatel může předložit pozměněný návrh a předložit rozumné argumenty, proč by měl vyřešit nebo zabránit tenzi v každé konkrétní situaci, kterou navrhovatel použil pro její ilustraci. Poté musí navrhovatel na žádost namítatele předložit rozumný argument, proč by pozměněný návrh nevyřešil nebo nezabránil tenzi nejméně v jedné konkrétní situaci, která již byla prezentována. Navrhovatel může případně přidat další příklad, který bude splňovat kritéria pro zpracování návrhu požadovaná v oddíle [[3.2.2]{.underline}], ve kterém by pozměněný návrh nepřinesl řešení. Pokud facilitátor dojde k závěru, že navrhovatel jednu z těchto prahových podmínek nesplňuje, musí facilitátor považovat návrh za neplatný pro další zpracování a vyřazený.
+- **(d)** Namítatel může předložit pozměněný návrh a předložit rozumné argumenty, proč by měl vyřešit nebo zabránit tenzi v každé konkrétní situaci, kterou navrhovatel použil pro její ilustraci. Poté musí navrhovatel na žádost namítatele předložit rozumný argument, proč by pozměněný návrh nevyřešil nebo nezabránil tenzi nejméně v jedné konkrétní situaci, která již byla prezentována. Navrhovatel může případně přidat další příklad, který bude splňovat kritéria pro zpracování návrhu požadovaná v oddíle **3.2.2**, ve kterém by pozměněný návrh nepřinesl řešení. Pokud facilitátor dojde k závěru, že navrhovatel jednu z těchto prahových podmínek nesplňuje, musí facilitátor považovat návrh za neplatný pro další zpracování a vyřazený.
 
 ### 3.3 ORGANIZAČNÍ SCHŮZKY
 
@@ -357,7 +356,7 @@ Facilitátor musí sestavit agendu z tenzí, které se mají zpracovat v rámci 
 
 - **(a)** Formát bodů agendy: Každý bod agendy při organizační schůzce představuje jednu tenzi ke zpracování, vnímanou účastníkem, který ji přidal do agendy. Při přidávání bodu do agendy může účastník poskytnout pouze krátký štítek pro tenzi a nemusí vysvětlovat ani diskutovat o tenzi dříve, než zpracování tohoto bodu agendy skutečně začne.
 - **(b)** Uspořádání bodů agendy: Facilitátor může určit pořadí, ve kterém se budou body agendy zpracovávat, s využitím jakéhokoli postupu nebo kritérií, která považuje za vhodná. Facilitátor však musí umístit jakýkoli bod agendy, který vyžaduje volbu některé z volených rolí kruhu, před všechny ostatní body, pokud o to požádá některý z účastníků schůzky. Navíc, pokud je schůzka naplánována na zvláštní žádost jednoho z účastníků, musí facilitátor umístit všechny body agendy, které tento účastník vznesl, před body vznesené jinými účastníky, pokud tento účastník neumožní jiné pořadí.
-- **(c)** Zpracování bodů agendy: Jakmile facilitátor rozhodne o počátečním pořadí bodů agendy, musí facilitátor provést postupně účastníky zpracováním každého bodu agendy. Pro zpracování bodu agendy, který vyžaduje volbu, musí facilitátor použít ***„Integrační postup volby"*** definovaný v oddíle [[3.3.6.]{.underline}] Pro zpracování jakéhokoliv jiného bodu agendy musí facilitátor použít ***„Integrační rozhodovací postup"*** definovaný v oddíle [[3.3.5.]{.underline}]
+- **(c)** Zpracování bodů agendy: Jakmile facilitátor rozhodne o počátečním pořadí bodů agendy, musí facilitátor provést postupně účastníky zpracováním každého bodu agendy. Pro zpracování bodu agendy, který vyžaduje volbu, musí facilitátor použít ***„Integrační postup volby"*** definovaný v oddíle **3.3.6.** Pro zpracování jakéhokoliv jiného bodu agendy musí facilitátor použít ***„Integrační rozhodovací postup"*** definovaný v oddíle **3.3.5.**
 
 #### 3.3.5 INTEGRAČNÍ ROZHODOVACÍ POSTUP
 
@@ -367,8 +366,8 @@ Facilitátor musí naplnit integrační rozhodovací postup takto:
 - **(b)** Upřesňující otázky: Jakmile navrhovatel předloží návrh, mohou ostatní účastníci klást upřesňující otázky, aby lépe porozuměli návrhu nebo tenzi, která stojí v pozadí návrhu. Navrhovatel může odpovědět na každou otázku nebo je může odmítnout. Facilitátor musí odmítnout jakékoliv reakce nebo názory vyjádřené ve věci návrhu a zabránit diskuzi jakéhokoli druhu. Každý účastník může také požádat tajemníka, aby přečetl zaznamenaný návrh nebo vysvětlil jakékoli stávající pravidlo řízení, a to v průběhu tohoto kroku nebo v jakémkoli jiném okamžiku, kdy má účastník možnost promluvit, a tajemník tak musí učinit.
 - **(c)** Kolo reakcí: Jakmile již nebudou žádné další otázky, mohou se všichni účastníci, kromě navrhovatele, postupně podělit o své reakce na návrh. Facilitátor musí okamžitě zarazit a odmítnout jakékoliv komentáře mimo pořadí, jakékoli pokusy zapojit druhé do dialogu nebo výměny jakéhokoli druhu a jakékoliv reakce na jiné reakce namísto reakcí k návrhu.
 - **(d)** Změny a upřesnění: Po kole reakcí může navrhovatel sdílet připomínky k reakcím a provádět změny návrhu. Prvořadým záměrem případných změn však musí být lépe řešit tenze navrhovatele a nikoli tenze, které vznášejí ostatní. Během tohoto kroku musí Facilitátor okamžitě zastavit a odmítnout jakékoliv komentáře jiné osoby, než jsou navrhovatel nebo tajemník a jakékoli zapojení tajemníka se musí zaměřit pouze na zaznamenání pozměněného návrhu.
-- **(e)** Kolo námitek: Dále může každý účastník, jeden po druhém, vznášet své potenciální námitky k přijetí návrhu. Facilitátor musí okamžitě zastavit a odmítnout diskuzi nebo reakce jakéhokoli druhu. Facilitátor může testovat námitky, jak je popsáno v oddíle [[3.2.5]{.underline}], a musí zaznamenat všechny platné námitky, které zůstanou po testování. Pokud neexistují žádné platné námitky, tajemník zaznamená návrh jako přijaté pravidlo řízení pro kruh.
-- **(a)** Začlenění: Pokud existují platné námitky, potom facilitátor podpoří diskuzi o takové změně návrhu, která by řešila každou z těchto námitek, jednu po druhé. Facilitátor označí námitku jako vyřešenou, jakmile namítatel potvrdí, že pozměněný návrh by nevyvolal námitku a navrhovatel potvrdí, že pozměněný návrh stále řeší jeho tenzi. Během diskuse musí facilitátor uplatňovat pravidla začlenění popsaná v oddíle [[3.2.6]{.underline}]. Jakmile jsou všechny zachycené námitky vyřešeny, facilitátor se vrátí zpět do kola námitek, aby zkontroloval nové námitky proti pozměněnému návrhu.
+- **(e)** Kolo námitek: Dále může každý účastník, jeden po druhém, vznášet své potenciální námitky k přijetí návrhu. Facilitátor musí okamžitě zastavit a odmítnout diskuzi nebo reakce jakéhokoli druhu. Facilitátor může testovat námitky, jak je popsáno v oddíle **3.2.5**, a musí zaznamenat všechny platné námitky, které zůstanou po testování. Pokud neexistují žádné platné námitky, tajemník zaznamená návrh jako přijaté pravidlo řízení pro kruh.
+- **(a)** Začlenění: Pokud existují platné námitky, potom facilitátor podpoří diskuzi o takové změně návrhu, která by řešila každou z těchto námitek, jednu po druhé. Facilitátor označí námitku jako vyřešenou, jakmile namítatel potvrdí, že pozměněný návrh by nevyvolal námitku a navrhovatel potvrdí, že pozměněný návrh stále řeší jeho tenzi. Během diskuse musí facilitátor uplatňovat pravidla začlenění popsaná v oddíle **3.2.6.** Jakmile jsou všechny zachycené námitky vyřešeny, facilitátor se vrátí zpět do kola námitek, aby zkontroloval nové námitky proti pozměněnému návrhu.
 
 #### 3.3.6 INTEGRAČNÍ POSTUP VOLBY
 
@@ -509,7 +508,7 @@ Kruh může přijmout politiku, která k tomuto požadovanému postupu něco př
 
 Pokud je definovaná role kruhu na taktické schůzce v důsledku něčí nepřítomnosti zcela nebo zčásti nezastoupena, může Lead Link kruhu jednat v rámci této role, aby mezeru zaplnila.
 
-Pokud chybí i Lead Link, může jakýkoli účastník přijmout další akci nebo projekty jménem této role, nicméně osoba, která obvykle tuto roli plní, s nimi může zacházet jen jako se žádostmi podanými podle oddílu [[4.1.2]{.underline}] písm. b).
+Pokud chybí i Lead Link, může jakýkoli účastník přijmout další akci nebo projekty jménem této role, nicméně osoba, která obvykle tuto roli plní, s nimi může zacházet jen jako se žádostmi podanými podle oddílu **4.1.2** písm. b).
 
 ### 4.3 INDIVIDUÁLNÍ AKCE
 
@@ -556,9 +555,9 @@ Případně mohou ratifikátoři ponechat kotevní kruh bez Lead Linka a vytvoř
 
 #### 5.2.2 FUNGOVÁNÍ BEZ LEAD LINKA
 
-Pokud kotevní kruh nemá žádného Lead Linka, stanou se všechna rozhodnutí, která obvykle vyžadují pravomoc Lead Linka, platnými výstupy procesu řízení kruhu. Jakákoli role uvnitř kruhu tak může vykonávat pravomoc Lead Linka tím, že navrhne pro kruh rozhodnutí jako změnu pravidel řízení, a to za použití postupu a pravidel uvedených v [[článku III]{.underline}].
+Pokud kotevní kruh nemá žádného Lead Linka, stanou se všechna rozhodnutí, která obvykle vyžadují pravomoc Lead Linka, platnými výstupy procesu řízení kruhu. Jakákoli role uvnitř kruhu tak může vykonávat pravomoc Lead Linka tím, že navrhne pro kruh rozhodnutí jako změnu pravidel řízení, a to za použití postupu a pravidel uvedených v **článku III**.
 
-Dále je v kotevním kruhu bez Lead Linka zrušena běžná pravomoc rolí autokraticky ovlivňovat domény kruhu (viz oddíl [[2.1.2]{.underline}]). Místo toho mohou role kruhu ovlivňovat jeho domény pouze pokud politika ovlivňování výslovně povolí nebo případně navržením akce pomocí procesu řízení kruhu, přesně tak, jak je popsáno výše pro uplatnění pravomoci Lead Linka.
+Dále je v kotevním kruhu bez Lead Linka zrušena běžná pravomoc rolí autokraticky ovlivňovat domény kruhu (viz oddíl **2.1.2.** Místo toho mohou role kruhu ovlivňovat jeho domény pouze pokud politika ovlivňování výslovně povolí nebo případně navržením akce pomocí procesu řízení kruhu, přesně tak, jak je popsáno výše pro uplatnění pravomoci Lead Linka.
 
 #### 5.2.3 ÚČEL ORGANIZACE
 
