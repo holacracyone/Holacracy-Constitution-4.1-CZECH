@@ -2,25 +2,25 @@
 
 ## Lead Link
 
-**Poslání:** _Vedoucí spojka v sobě obsahuje poslání celého kruhu._
+**Účel:** _Vedoucí spojka v sobě obsahuje účel celého kruhu._
 
 **Domény:** 
 
 - Přiřazení rolí uvnitř kruhu
 
 **Odpovědnosti:**
-- Strukturování pravidel řízení kruhu za účelem ustavení jeho účelu/poslání a odpovědností
+- Strukturování pravidel řízení kruhu za účelem ustavení jeho účelu a odpovědností
 - Přiřazování partnerů k rolím kruhu; monitorování naplnění role partnerem; nabízení zpětné vazby pro lepší naplnění role; opětovné  přiřazování role jiným partnerům, pokud je to vhodné pro lepší naplnění role
 - Přidělování prostředků kruhu na jeho různé projekty a/nebo role
 - Stanovení priorit a strategií kruhu
 - Definování metrik pro kruh
-- Odstraňování překážek a omezení uvnitř kruhu vůči superkruhu a tím ustanovení jeho účelu/poslání a zodpovědností
+- Odstraňování překážek a omezení uvnitř kruhu vůči superkruhu a tím ustanovení jeho účelu a zodpovědností
 
 _Vedoucí spojka také obsahuje všechny nedelegované domény a zodpovědnost na úrovni kruhu.
 
 ## Rep Link
 
-**Poslání:** Uvnitř superkruhu drží Rep Link účel/poslání podkruhu, uvnitř podkruhu je účelem/posláním Rep Linka: Všechny tenze kruhu vhodné k řešení v rámci superkruhu jsou tam přenesené a vyřešené.
+**Účel:** Uvnitř superkruhu drží Rep Link účel podkruhu, uvnitř podkruhu je účelem Rep Linka: Všechny tenze kruhu vhodné k řešení v rámci superkruhu jsou tam přenesené a vyřešené.
 
 **Odpovědnosti:**
 
@@ -30,7 +30,7 @@ _Vedoucí spojka také obsahuje všechny nedelegované domény a zodpovědnost n
 
 ## Facilitátor
 
-**Poslání:** Pravidla řízení a operativa kruhu jsou v souladu s ústavou.
+**Účel:** Pravidla řízení a operativa kruhu jsou v souladu s ústavou.
 
 **Odpovědnosti:**
 
@@ -39,7 +39,7 @@ _Vedoucí spojka také obsahuje všechny nedelegované domény a zodpovědnost n
 
 ## Tajemník
 
-**Poslání:** Správa a stabilizace oficiálních záznamů kruhu a procesu vedení záznamů.
+**Účel:** Správa a stabilizace oficiálních záznamů kruhu a procesu vedení záznamů.
 
 **Domény:** Všechny ústavou požadované záznamy kruhu.
 
