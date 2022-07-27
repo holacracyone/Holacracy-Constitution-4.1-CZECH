@@ -2,7 +2,7 @@
 
 ## Lead Link
 
-**Účel:** _Vedoucí spojka v sobě obsahuje účel celého kruhu._
+**Účel:** _Lead Link v sobě obsahuje účel celého kruhu._
 
 **Domény:** 
 
@@ -16,7 +16,7 @@
 - Definování metrik pro kruh
 - Odstraňování překážek a omezení uvnitř kruhu vůči superkruhu a tím ustanovení jeho účelu a zodpovědností
 
-_Vedoucí spojka také obsahuje všechny nedelegované domény a zodpovědnost na úrovni kruhu.
+_Lead Link také obsahuje všechny nedelegované domény a zodpovědnost na úrovni kruhu.
 
 ## Rep Link
 
